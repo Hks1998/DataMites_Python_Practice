@@ -1,0 +1,20 @@
+[
+    {
+        "StudentID": 1,
+        "Name": "Harsh",
+        "Maths": 98,
+        "Science": 96,
+        "English": 99,
+        "SocialScience": 97,
+        "Hindi": 93
+    },
+    {
+        "StudentID": 2,
+        "Name": "Preeti",
+        "Maths": 100,
+        "Science": 99,
+        "English": 98,
+        "SocialScience": 99,
+        "Hindi": 99
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "EmpID": 1,
+        "Name": "Hks",
+        "Department": "Development"
+    },
+    {
+        "EmpID": 2,
+        "Name": "Rohit",
+        "Department": "Designing"
+    },
+    {
+        "EmpID": 3,
+        "Name": "Rahul",
+        "Department": "Testing"
+    },
+    {
+        "EmpID": 4,
+        "Name": "Aditi",
+        "Department": "HR"
+    }
+
+
+]
